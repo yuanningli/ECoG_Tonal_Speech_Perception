@@ -1,0 +1,30 @@
+{
+    "participant_id": {
+        "Description": "participant identifier"
+    },
+    "age": {
+        "Description": "Age of the participant at time of craniotomy",
+        "Units": "years"
+    },
+    "gender": {
+        "Description": "Gender of the participant",
+        "Levels": {
+            "F": "female",
+            "M": "male"
+        }
+    },
+    "hem": {
+        "Description": "Hemisphere of the craniotomy",
+        "Levels": {
+            "lh": "left hemisphere",
+            "rh": "right hemisphere"
+        }
+    },
+    "hand": {
+        "Description": "Handedness of the participant",
+        "Levels": {
+            "R": "right",
+            "L": "left"
+        }
+    }
+}
