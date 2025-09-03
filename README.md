@@ -26,4 +26,4 @@ High-density intracranial recordings during naturalistic language processing are
 ## To download and use the full dataset
 please visit: https://zenodo.org
 ### The structure of our dataset
-<img width="416" height="535" alt="image" src="https://github.com/user-attachments/assets/d75d17a1-f5d6-48f7-80bc-2af1e3518b17" />
+<img width="416" height="535" alt="image" src="https://github.com/yuanningli/ECoG_Tonal_Speech_Perception/blob/main/misc/Figure1.jpg" />
